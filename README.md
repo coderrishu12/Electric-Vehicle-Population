@@ -29,6 +29,8 @@ With the rapid adoption of electric vehicles worldwide, it is essential to analy
 * `Electric_Vehicle_Population_Data.csv` – Raw dataset used for analysis
 * `PowerBiDashboard.pbit` – Power BI dashboard template file
 
+<img width="1434" height="806" alt="PBIDASH" src="https://github.com/user-attachments/assets/018dd956-9946-4fcf-922c-f2f7f41abba8" />
+
 
 
 ---
