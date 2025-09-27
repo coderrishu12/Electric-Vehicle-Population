@@ -1,8 +1,6 @@
-# Electric-Vehicle-Population
+Electric Vehicle Dashboard (Power BI)
 
 ---
-
-# Electric Vehicle Dashboard (Power BI)
 
 This project showcases an interactive Power BI dashboard built using the Electric Vehicle Population Dataset. The dashboard provides insights into the adoption, distribution, and growth of electric vehicles (EVs), including both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
 
