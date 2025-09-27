@@ -1,4 +1,4 @@
-Electric Vehicle Dashboard (Power BI)
+# Electric Vehicle Dashboard (Power BI)
 
 ---
 
